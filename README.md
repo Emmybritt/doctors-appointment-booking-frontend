@@ -64,18 +64,6 @@ This project is the frontend for the doctors appointment booking application.
 - Secure user authentication using Firebase.
 - Login and registration functionalities.
 
-### Infinite Scrolling:
-
-- Implemented infinite scrolling on the doctors list page for better user experience.
-
-### Image Optimization:
-
-- Lazy loading of images to optimize performance and reduce initial load time.
-
-### Search for Doctors:
-
-- Debounced search functionality to provide efficient and responsive search experience.
-
 ### Calendar Implementation:
 
 - Integrated calendar for selecting and viewing available appointment slots.
@@ -99,3 +87,20 @@ This project is the frontend for the doctors appointment booking application.
 ### Protected Routes:
 
 - Implemented route protection to ensure that only authenticated users can access certain pages.
+
+
+## Optimization Techniques
+
+### Infinite Scrolling:
+
+- Implemented infinite scrolling on the doctors list page to decrease load time and for better user experience.
+
+### Image Optimization:
+
+- Lazy loading of images to optimize performance and reduce initial load time.
+
+### Search for Doctors:
+
+- Debounced search functionality to provide efficient and responsive search experience.
+
+- Fallback loader: As a fallback UI, I created loader for both the doctors listing and details page. I chose to use the loader as it   minimizes Cumulative Layout Effects and also increases speed perception.
