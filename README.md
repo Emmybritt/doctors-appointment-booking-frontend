@@ -1,3 +1,29 @@
+
+# WARNING: Scam Alert
+
+## Important Notice for Developers
+
+This repository is being used by scammers who pose as legitimate employers conducting technical assessments. They are asking multiple developers to complete this project under the guise of a job application process. 
+
+If you have been asked to contribute to this repository as part of a technical assessment, please be aware that this is likely a scam. They are exploiting developers' work without any intention of hiring or compensating them.
+
+**What to do:**
+- **Do not contribute any further code to this repository.**
+- **Report the scam to the relevant authorities or platforms.**
+- **Warn other developers about this scheme to prevent them from falling victim to it.**
+
+Stay vigilant and protect your work.
+
+For more information about job scams, you can visit:
+- [Federal Trade Commission - Job Scams](https://www.consumer.ftc.gov/articles/0243-job-scams)
+- [Better Business Bureau - Job Scams](https://www.bbb.org/us/article/scams/15717-bbb-scam-alert-dont-fall-for-job-scams)
+
+If you have any questions or need assistance, please feel free to contact me.
+
+Best regards,
+Emmanuel
+
+
 # React + TypeScript + Vite
 
 # Doctors Appointment Booking Frontend
