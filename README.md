@@ -34,12 +34,12 @@ This project is the frontend for the doctors appointment booking application.
 3. **Create a `.env` file at the root of the project and copy and paste this environment variables:**
 
    ```plaintext
-   VITE_FIREBASE_API_KEY=AIzaSyA8ZNeubslYSSgu_2VeZuLWgN3mKxPQAwM
-   VITE_FIREBASE_AUTH_DOMAIN=fir-auth-311de.firebaseapp.com
-   VITE_FIREBASE_PROJECT_ID=fir-auth-311de
-   VITE_FIREBASE_STORAGE_BUCKET=fir-auth-311de.appspot.com
-   VITE_FIREBASE_MESSAGING_SENDER_ID=185349758929
-   VITE_FIREBASE_APP_ID=1:185349758929:web:ecbd1eb36813dfb2544af0p
+   VITE_FIREBASE_API_KEY=your_firebase_api_key
+   VITE_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
+   VITE_FIREBASE_PROJECT_ID=your_firebase_project_id
+   VITE_FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
+   VITE_FIREBASE_MESSAGING_SENDER_ID=your_firebase_sender_id
+   VITE_FIREBASE_APP_ID=your_firebase_app_id
    ```
 
 4. **Run the application:**
